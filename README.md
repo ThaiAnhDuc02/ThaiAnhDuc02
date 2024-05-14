@@ -39,8 +39,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native logo" title="React Native" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Socket.io-010101?&style=for-the-badge&logo=Socket.io&logoColor=white" alt="Express logo" title="Express" height="25" /></span>
-&nbsp;
 
 <!-- Others -->
 
