@@ -6,7 +6,7 @@ Final-year Information Technology student at Dong Nai University of Technology, 
 
 ## About
 
-DevOps engineer focused on cloud infrastructure, container platforms, and automated delivery. Experience running production systems for a securities company across AWS, GreenNode Cloud and on-premise / colocation environments, with a growing focus on AI-assisted operations (AIOps) for Kubernetes and containers.
+DevOps engineer focused on cloud infrastructure, container platforms, and automated delivery. Experience running production systems for a securities company across AWS, GreenNode Cloud and on-premise / colocation environments, with onsite consulting and direct delivery alongside customer teams, and a growing focus on AI-assisted operations (AIOps) for Kubernetes and containers.
 
 ## Certifications
 
@@ -19,6 +19,7 @@ DevOps engineer focused on cloud infrastructure, container platforms, and automa
 - **AWS:** Operated a production EKS cluster on AWS Outposts (Kubernetes 1.28, private endpoint, IAM-based access control); deployed a production workload on AWS Local Zone Vietnam during its early access; set up a CloudFront + S3 maintenance page behind a third-party WAF.
 - **AWS security:** Reviewed the access and network posture of a production trading environment, including OpenVPN configuration (certificate revocation gap), security groups and NACLs, and WAF tuning alongside a third-party WAF; assessed application protection for a mobile trading app.
 - **AWS cost optimization:** Analyzed AWS cost drivers and options, including Reserved Instances for database workloads, managed versus self-managed services, and bundled CDN/WAF pricing, benchmarked against GreenNode.
+- **Customer consulting & onsite delivery:** Worked onsite with customer teams to advise on solution options, prepare cost proposals and technical assessment documents, and implement changes directly alongside customer staff.
 - **GreenNode Cloud (VNG Cloud):** Designed and priced environments on VKS (managed Kubernetes), vDB (PostgreSQL/Redis), vStorage, VPC, vWAF and vCDN; handled migration testing and pay-as-you-go billing analysis.
 - **AIOps:** Applying AI to Kubernetes and container operations: AI-assisted incident response, AI-based log analysis for operations, and read-only MCP integrations (Kubernetes, Jenkins, Argo CD) with Claude.
 - **On-premise & colocation:** Reviewed colocation quotes for primary and DR sites (rack space, leased internet line, point-to-point link); compared cloud and self-hosted costs, such as managed SQL Server versus self-hosted.
