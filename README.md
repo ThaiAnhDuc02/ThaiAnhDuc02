@@ -62,14 +62,6 @@
 <span><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" height="25" /></span>&nbsp;
 <span><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" height="25" /></span>&nbsp;
 
-## 📌 Featured projects
-
-- **[PasteGuard](https://github.com/ThaiAnhDuc02/PasteGuard)** — latest personal project
-- **[devops-claude-skills](https://github.com/ThaiAnhDuc02/devops-claude-skills)** — Claude skills for DevOps workflows
-- **[my-microservices-app](https://github.com/ThaiAnhDuc02/my-microservices-app)** + [manifests](https://github.com/ThaiAnhDuc02/my-microservices-app-manifest) — microservices on Kubernetes
-- **[terraform-ecs-infra](https://github.com/ThaiAnhDuc02/terraform-ecs-infra)** / **[ecs-terraform-workshop](https://github.com/ThaiAnhDuc02/ecs-terraform-workshop)** — AWS ECS infra as code
-- **[harbor-container-registry-selfhost](https://github.com/ThaiAnhDuc02/harbor-container-registry-selfhost)** — self-hosted container registry
-
 ## 📫 How to reach me
 
 <div align="center">
