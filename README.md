@@ -8,11 +8,22 @@
 
 ## 👋 About Me
 
-- :school: Graduate of **Dong Nai University of Technology** — Information Technology
+- :school: Final-year **Information Technology** student at **Dong Nai University of Technology**
 - :earth_asia: Based in **Bien Hoa, Dong Nai, Vietnam**
 - :cloud: Focused on **cloud infrastructure, container orchestration, and automated delivery pipelines**
 - :seedling: Learning in public — most of my repos are hands-on workshops and personal infra projects
 - :bulb: Best fact: **_"Learning to grow up and up"_**
+
+## 💼 Experience
+
+**DevOps Engineer — onsite delivery for a securities company (Vietnam)**
+
+- **GreenNode Cloud (VNG Cloud):** Designed and priced environments on VKS (managed Kubernetes), vDB (PostgreSQL/Redis), vStorage, VPC, vWAF and vCDN; handled migration testing and pay-as-you-go billing analysis.
+- **AWS:** Operated a production EKS cluster on AWS Outposts (Kubernetes 1.28, private endpoint, IAM-based access control); deployed a production workload on AWS Local Zone Vietnam during its early access; set up a CloudFront + S3 maintenance page behind a third-party WAF.
+- **On-premise & colocation:** Reviewed colocation quotes for primary and DR sites (rack space, leased internet line, point-to-point link); compared cloud and self-hosted costs (e.g., managed SQL Server vs. self-hosted).
+- **Backup & DR:** Designed a cross-cloud backup architecture with 3-2-1 copies across two Vietnamese cloud providers, covering database dump strategy and restore testing.
+- **Security & operations:** Operator access through OpenVPN; CI/CD with Jenkins and Argo CD; TLS and WAF troubleshooting for public domains; application security assessment for a mobile trading app.
+- **Domain:** Securities trading systems — market data ingestion (Kafka), order and account microservices, MySQL/MongoDB/Redis, WebSocket realtime feeds.
 
 ## 🚀 What I work with
 
